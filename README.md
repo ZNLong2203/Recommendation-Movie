@@ -1,5 +1,5 @@
 # Project in Introduction to Artificial Intelligence
-# Recommenation System
+# Recommendation System
 
 ## Introduction
 This project is a recommendation system that uses the collaborative filtering technique, matrix factorization, and the SVD algorithm to recommend movies to users. 
